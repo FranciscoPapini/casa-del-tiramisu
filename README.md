@@ -11,7 +11,7 @@ Sistema web desarrollado para una pastelería artesanal, con funcionalidades de 
 - MySQL / MariaDB
 - Bootstrap 3.0
 
-## 🔧 Funcionalidades principales
+## Funcionalidades principales
 
 - Registro de clientes y pedidos
 - Control de ingresos mensuales
